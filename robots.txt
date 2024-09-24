@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cityrog.github.io/sitemap.html.gz
+Sitemap: https://cityrog.github.io/app/sitemap.html.gz
+Sitemap: https://cityrog.github.io/assets/sitemap.html.gz
+Sitemap: https://cityrog.github.io/css/sitemap.html.gz
+Sitemap: https://cityrog.github.io/data/sitemap.html.gz
+Sitemap: https://cityrog.github.io/includes/sitemap.html.gz
+Sitemap: https://cityrog.github.io/item/sitemap.html.gz
+Sitemap: https://cityrog.github.io/src/sitemap.html.gz
